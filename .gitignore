@@ -5,13 +5,5 @@ node_modules/
 dist/
 build/
 
-# Ignore TypeScript cache
-*.tsbuildinfo
-
-# Ignore Webpack cache files
-.cache/
-.cache-loader/
-
-# Ignore environment variables
 .env
 package-lock.json
